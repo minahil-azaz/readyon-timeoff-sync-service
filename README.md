@@ -286,8 +286,3 @@ files-1/
 | PORT | 3000 | Server port |
 | DATABASE_PATH | db.sqlite | SQLite file path |
 
----
-
-## 📄 License
-
-MIT
